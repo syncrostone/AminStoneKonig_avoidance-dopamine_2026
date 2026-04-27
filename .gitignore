@@ -208,3 +208,5 @@ __marimo__/
 
 # data folder contains data that can be accessed elsewhere
 data/
+
+fig2-connectome/results/
