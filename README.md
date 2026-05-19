@@ -5,4 +5,4 @@ Other previously published code used in the manuscript can be found at https://g
 
 Code is organized into folders by figure, with the exception of the envs folder which contains conda environment files for running the code in the notebooks. See the readme in the envs folder for installation instructions and for which environment to use with which files.
 
-Note that code for figure S10 in in the fig5_figS10-modeling folder, and the code for Fig. 1j, Extended Data Fig. 1b,e, and Supplemental Data Synapse Topology are in the synpatic-sites notebooks in the fig2-connectome folder along with the code for Fig. 2a,e.
+Note that code for figure S10 in in the fig5_figS10-modeling folder, and the code for Fig. 1j, Extended Data Fig. 1b,e, and Supplemental Data Synapse Topology are in the synpatic-sites notebooks in the fig2-connectome folder along with the code for Fig. 2a-e.
