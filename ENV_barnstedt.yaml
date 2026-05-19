@@ -278,4 +278,3 @@ dependencies:
   - pip:
       - h5py==3.15.1
       - mat-io==0.6.2
-prefix: /Users/Oliver/miniconda3/envs/stats_plotting
